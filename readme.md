@@ -1,14 +1,26 @@
-# Welcome to My New Project
+# My Git Practice Project
 
-This is my new project.
+Welcome to my Git and GitHub practice project.
 
 ## About
 
-This project is created for learning and practice.
+This repository is created to practice:
 
-## Getting Started
+- Git
+- GitHub
+- Branches
+- Pull Requests
+- Merging
 
-More details will be added soon.
+## Project Status
+
+Learning Git and GitHub step by step.
+
+## Features
+
+- Simple project structure
+- Branch-based development
+- Pull Request workflow
 
 ## Author
 
